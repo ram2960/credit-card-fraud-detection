@@ -1,4 +1,4 @@
-# Sentinel — Credit Card Fraud Detection
+# Credit Card Fraud Detection
 
 An end-to-end machine learning system that detects fraudulent credit card transactions in a dataset where fraud accounts for just **0.17%** of all records. The project covers the full pipeline — exploratory data analysis, preprocessing, model comparison, an unsupervised anomaly detection baseline, threshold tuning, and a live Flask dashboard for interactive transaction screening.
 
