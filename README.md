@@ -12,7 +12,6 @@ An end-to-end machine learning system that detects fraudulent credit card transa
 - [Key Concepts Used](#key-concepts-used)
 - [How to Run This Locally](#how-to-run-this-locally)
 - [How to Use the Dashboard](#how-to-use-the-dashboard)
-- [Future Improvements](#future-improvements)
 - [Tech Stack](#tech-stack)
 - [Author](#author)
 
